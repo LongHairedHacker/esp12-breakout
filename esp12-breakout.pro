@@ -1,4 +1,4 @@
-update=Wed 02 Mar 2016 08:35:45 PM CET
+update=Wed 09 Mar 2016 08:25:02 PM CET
 version=1
 last_client=kicad
 [pcbnew]
@@ -59,4 +59,4 @@ LibName27=atmel
 LibName28=contrib
 LibName29=valves
 LibName30=lib/esp-12
-LibName31=lib/ch340t
+LibName31=lib/CH340G
