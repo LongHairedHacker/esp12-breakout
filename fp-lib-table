@@ -2,4 +2,5 @@
   (lib (name CH340G)(type Legacy)(uri "$(KIPRJMOD)/lib/CH340G.mod")(options "")(descr ""))
   (lib (name LM1117)(type KiCad)(uri "$(KIPRJMOD)/lib/LM1117.pretty")(options "")(descr ""))
   (lib (name esp12-f)(type KiCad)(uri "$(KIPRJMOD)/lib/esp12-f.pretty")(options "")(descr ""))
+  (lib (name w_smd_diode)(type Legacy)(uri "$(KIPRJMOD)/lib/w_smd_diode.mod")(options "")(descr ""))
 )
